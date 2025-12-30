@@ -18,11 +18,6 @@ Systém slouží jako evidence pro správu filmových tvůrců a děl. Uživatel
 - **Načítání dat:** Aplikace zpracovává vstupní textový soubor `gang.txt`, který obsahuje seznam herců/postav pro naplnění databáze.
 - **Výpisy:** Filtrování osob a děl podle zadaných kritérií.
 
-### Ukázka práce s daty:
-
-Aplikace demonstruje parsování textového souboru:
-> *Soubor `gang.txt` slouží jako externí zdroj dat (např. seznam obsazení), který se při startu načte do paměti objektů.*
-
 ---
 
 ## 2. Použité principy OOP
